@@ -1,0 +1,4 @@
+chay buld chroma
+python -m app.rag.rag_retriever
+chay python run.py
+bam go live index
